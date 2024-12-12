@@ -56,22 +56,6 @@
       }
     },
     {
-      "id": "item-93d60560-87bb-4916-8b7e-1911477ace68",
-      "indent": 0,
-      "location": "pages/item-93d60560-87bb-4916-8b7e-1911477ace68/index.html",
-      "slug": "new-page",
-      "order": 0,
-      "parent": null,
-      "title": "New Page",
-      "description": "",
-      "metadata": {
-        "created": 1734023617,
-        "updated": 1734023617,
-        "images": [],
-        "videos": []
-      }
-    },
-    {
       "id": "item-0a25b0d8-39a8-4513-873d-db319bc04fd4",
       "indent": 0,
       "location": "pages/item-0a25b0d8-39a8-4513-873d-db319bc04fd4/index.html",
