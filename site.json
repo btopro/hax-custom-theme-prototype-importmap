@@ -54,7 +54,22 @@
         "created": 1734023588,
         "updated": 1734023588
       }
+    },
+    {
+      "id": "item-93d60560-87bb-4916-8b7e-1911477ace68",
+      "indent": 0,
+      "location": "pages/item-93d60560-87bb-4916-8b7e-1911477ace68/index.html",
+      "slug": "new-page",
+      "order": 0,
+      "parent": null,
+      "title": "New Page",
+      "description": "",
+      "metadata": {
+        "created": 1734023617,
+        "updated": 1734023617,
+        "images": [],
+        "videos": []
+      }
     }
-  ],
-  "location": "/_sites/stuff/index.html"
+  ]
 }
