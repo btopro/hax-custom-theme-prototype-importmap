@@ -1,3 +1,4 @@
 hax: hax site stuff --y="true" --auto="true" --theme="[object Object]"
 hax: hax site node:add --title="New Page"
 hax: hax site node:add --title="New Page"
+hax: hax site node:add --title="New Page"

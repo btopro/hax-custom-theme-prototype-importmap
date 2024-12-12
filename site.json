@@ -102,6 +102,22 @@
         "images": [],
         "videos": []
       }
+    },
+    {
+      "id": "item-7c0eaaec-fe29-4a2f-9c07-98774230ecbb",
+      "indent": 0,
+      "location": "pages/item-7c0eaaec-fe29-4a2f-9c07-98774230ecbb/index.html",
+      "slug": "new-page-3",
+      "order": 0,
+      "parent": null,
+      "title": "New Page",
+      "description": "",
+      "metadata": {
+        "created": 1734023621,
+        "updated": 1734023621,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }
