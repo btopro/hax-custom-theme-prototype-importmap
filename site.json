@@ -1,0 +1,42 @@
+{
+  "id": "f7f6c969-bc6c-403a-abf8-304bdd10314b",
+  "title": "stuff",
+  "author": "",
+  "description": "",
+  "license": "by-sa",
+  "metadata": {
+    "author": {},
+    "site": {
+      "settings": {
+        "lang": "en"
+      },
+      "name": "stuff",
+      "domain": null,
+      "created": 1734023588,
+      "updated": 1734023588
+    },
+    "theme": {
+      "variables": {}
+    },
+    "node": {
+      "fields": {}
+    }
+  },
+  "items": [
+    {
+      "id": "item-813a97b9-f831-4bca-b876-d3d98be59353",
+      "indent": 0,
+      "location": "pages/item-813a97b9-f831-4bca-b876-d3d98be59353/index.html",
+      "slug": "welcome",
+      "order": 0,
+      "parent": null,
+      "title": "Welcome to stuff",
+      "description": "",
+      "metadata": {
+        "created": 1734023588,
+        "updated": 1734023588
+      }
+    }
+  ],
+  "location": "/_sites/stuff/index.html"
+}
