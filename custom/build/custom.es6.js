@@ -1,1 +1,1 @@
-// custom comment script here
+import{HAXCMSLitElementTheme as t}from"@haxtheweb/haxcms-elements/lib/core/HAXCMSLitElementTheme.js";class e extends t{constructor(){super()}static get tag(){return"my-theme"}}globalThis.customElements.define(e.tag,e);
