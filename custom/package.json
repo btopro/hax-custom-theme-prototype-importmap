@@ -12,8 +12,7 @@
     "watch": "rollup --watch -c rollup.config.js"
   },
   "dependencies": {
-    "@haxtheweb/haxcms-elements": "^9.0.27",
-    "@haxtheweb/polaris-theme": "^9.0.27"
+
   },
   "devDependencies": {
     "rollup": "^2.0.0",
