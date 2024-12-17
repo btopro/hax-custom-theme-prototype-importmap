@@ -1,1 +1,1 @@
-import{HAXCMSLitElementTheme as t}from"@haxtheweb/haxcms-elements/lib/core/HAXCMSLitElementTheme.js";class e extends t{constructor(){super()}static get tag(){return"my-theme"}}globalThis.customElements.define(e.tag,e);
+import"@haxtheweb/haxcms-elements/lib/core/HAXCMSLitElementTheme.js";import{PolarisFlexTheme as t}from"@haxtheweb/polaris-theme/lib/polaris-flex-theme.js";class e extends t{constructor(){super()}static get tag(){return"my-theme"}}globalThis.customElements.define(e.tag,e);

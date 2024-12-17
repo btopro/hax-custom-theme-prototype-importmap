@@ -1,6 +1,7 @@
-import { HAXCMSLitElementTheme } from "@haxtheweb/haxcms-elements/lib/core/HAXCMSLitElementTheme.js";
+import { html, css } from "@haxtheweb/haxcms-elements/lib/core/HAXCMSLitElementTheme.js";
+import { PolarisFlexTheme } from "@haxtheweb/polaris-theme/lib/polaris-flex-theme.js"
 
-export class MyTheme extends HAXCMSLitElementTheme {
+export class MyTheme extends PolarisFlexTheme {
     constructor() {
         super();
     }
